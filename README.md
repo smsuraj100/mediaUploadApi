@@ -1,2 +1,2 @@
 # mediaUploadApi
-Handles Upload?doenload of media using NodeJS, LokiJS and Multer
+Handles Uploading and retriving of media using NodeJS, LokiJS and Multer
